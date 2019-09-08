@@ -1,0 +1,8 @@
+prefix=/home/hao/catkin_ws/install
+
+Name: kitti_show
+Description: Description of kitti_show
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hao/catkin_ws/install/lib 
+Requires: 

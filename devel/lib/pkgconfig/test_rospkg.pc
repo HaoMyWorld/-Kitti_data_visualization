@@ -1,0 +1,8 @@
+prefix=/home/hao/catkin_ws/devel
+
+Name: test_rospkg
+Description: Description of test_rospkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hao/catkin_ws/devel/lib 
+Requires: 

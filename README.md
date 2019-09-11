@@ -1,5 +1,5 @@
 # -Kitti_data_visualization
-data vsualization for autodrive 
+kitti data vsualization for autodrive 
 
 You can start the program with the following commands：
 rosrun kitti_show kitti.py 

@@ -5,7 +5,7 @@ You can start the program with the following commands：
 rosrun kitti_show kitti.py 
 
 node：
-     You must start the ROS environment before using this command
+     You must start the ROS environment before using this command\n
      The simulator used is rviz
 
 Using this project, you can get the effect shown in the following figure
